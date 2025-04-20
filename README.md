@@ -82,7 +82,7 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
 
 - Flutter SDK (≥ 2.10)  
 - Android Studio veya Xcode ile emülatör / gerçek cihaz  
-- Gerçek cihazda deneyim için Beta Apk sürümü repostory içinden indirilmeli
+- Gerçek cihazda deneyim yaşamak için Mobil Uygulama Beta Apk klasörü içinden mevcut apk sürümü indirilmesi gerekir.
 - Gerçek cihazda deneyim için ARCore destekli Android işletim sistemine sahip cihazlarda çalıştırılması gerekir.
 - ARCore destekli Cihazlar [https://developers.google.com/ar/devices?hl=tr](https://developers.google.com/ar/devices?hl=tr)
 
