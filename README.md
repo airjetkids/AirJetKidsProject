@@ -29,7 +29,7 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
   
 <img width="310" alt="Ekran Resmi 2025-04-20 16 00 17" src="https://github.com/user-attachments/assets/f9bbaffa-ea14-4f0f-ac60-f4346913744e" />
 
-- ## Trello Adresi**  
+- ## Trello Adresi
 🔗 [ https://trello.com/b/frMMlU0m/airjet-kids](https://trello.com/b/frMMlU0m/airjet-kids)
 
 - ## Mobil Uygulama Kaynak Kod Yapısı
