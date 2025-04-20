@@ -35,7 +35,10 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
 # Proje Tanıtım Videosu
 
 <video controls width="800">
-  <source src="Dökümantasyon Tanıtım ve Raporlar/Proje Tanıtım Videosu/Proje_Tanıtımı_Videosu.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/<airjetkids>/<AirJetKidsProject>/<main>/
+D%C3%B6k%C3%BCmantasyon%20Tan%C4%B1t%C4%B1m%20ve%20Raporlar/
+Proje%20Tan%C4%B1t%C4%B1m%20Videosu/
+Proje_Tan%C4%B1t%C4%B1m%C4%B1_Videosu.mp4" type="video/mp4">
   Tarayıcınız video etiketini desteklemiyor.
 </video>
 
