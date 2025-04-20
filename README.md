@@ -1,6 +1,6 @@
 # AirJet Kids
 
-## Repo Notları
+## Repositories Notları
 
 1. **Dökümantasyon Tanıtım ve Raporlar:** Tanıtım videosu,proje sunumları ve proje dökümantasyonları bu klasörde yer alır
 2. **Mobil Uygulama Kaynak Kodları:** AirJet Kids mobil uygulamasının kaynak kodları bu klasörde yer alır.
