@@ -1,5 +1,11 @@
 # AirJet Kids
 
+## Repo Notları
+
+1. **Dökümantasyon Tanıtım ve Raporlar** Tanıtım videosu,proje sunumları ve proje dökümantasyonları yer alır
+2. **Arttırılmış gerçeklik teknolojisi entegrasyonları tamamlandı.**
+3. **Kullanıcı bazlı puanlama sistem altyapısı çalışmalarına başlandı.**
+4. 
 **Proje Tanıtımı**  
 Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerini sağlamak amacıyla geliştirilmiş interaktif bir mobil uygulama. Türkiye haritası üzerinde kullanıcıların seçtikleri şehirler arasında uçuş rotaları çizer; her şehirde artırılmış gerçeklik ile zenginleştirilmiş görseller ve puanlama süre gibi parametreler içeren kelime bulmaca oyunları sunarak çocuklara eğlenceli ve eğitici bir uçuş deneyimi yaşatır.
 
