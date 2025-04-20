@@ -6,18 +6,20 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
 **Web Sitesi**  
 🔗 [https://airjetkids.github.io/](https://airjetkids.github.io/)
 
-<img width="1370" alt="Ekran Resmi 2025-04-20 16 02 05" src="https://github.com/user-attachments/assets/2718cad6-120e-47ae-9e1a-e3782e0e0509" />
+<img width="1370" alt="Ekran Resmi 2025-04-20 16 02 05" src="https://github.com/user-attachments/assets/945ee091-aaaa-4e9b-a2bb-b34ca40caf52" />
 
 **Proje Geliştirme Ekibi Üyeleri ve Görevleri**  
 - **Ekip Lideri: Muhammed Fethi GÜMÜŞBOĞA** – Flutter ile mobil uygulama ön yüz geliştirme, Dart teknolojisi ile şehir rota modellerinin oluşturulması, Harita ve UI tasarımı, AR entegrasyonu ve 3D model yönetimi, Oyun mantığı GetX yönetimi, Oyun akışı ve puanlama
+
   
-<img width="310" alt="Ekran Resmi 2025-04-20 15 59 55" src="https://github.com/user-attachments/assets/31084705-1c00-4d58-ad11-fe0976e31370" />
+<img width="310" alt="Ekran Resmi 2025-04-20 15 59 55" src="https://github.com/user-attachments/assets/6048c8cf-2adf-420e-9a6a-a987036caee0" />
 
 
 
 - **Ekip Üyesi: Nurettin Mutlu TÜVER** – Veri modelleri, JSON ve rota verilerinin hazırlanması, AR sahnelerinin oluşturulması, Marka web sitesinin oluşturulması, Proje dökümantasyon rapor ve tanıtımlarının gerçekleştirilmesi
+
   
-<img width="310" alt="Ekran Resmi 2025-04-20 16 00 17" src="https://github.com/user-attachments/assets/0b4165a8-a78a-4785-bbc9-789d77eb9064" />
+<img width="310" alt="Ekran Resmi 2025-04-20 16 00 17" src="https://github.com/user-attachments/assets/f9bbaffa-ea14-4f0f-ac60-f4346913744e" />
 
 
 - ## Mobil Uygulama Kaynak Kod Yapısı
@@ -97,20 +99,22 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
 
 1. Şehir seçimi “Nereye Gidiyoruz?” ekranında kalkış ve varış şehirlerini belirleyin.
 
+
 <p align="start">
   <img 
-    src="https://github.com/user-attachments/assets/350e7e6f-413f-4048-b023-01c104be0555" 
+    src="https://github.com/user-attachments/assets/f34eb192-b938-4ffc-bde6-799b4e4397f5" 
     width="150"
     heigth ="300"
     alt="Uçuş Rotasyonu Ekran Görüntüsü" 
   />
 </p>
 
+
 2. Rota görüntüleme Harita ve şehir listesi ile uçuş rotasını inceleyin.
 
   <p align="start">
   <img 
-    src="https://github.com/user-attachments/assets/1b73a2e5-efb9-4ee0-945e-d04c0cd3a526" 
+    src="https://github.com/user-attachments/assets/f4213b78-ae06-41fc-872f-5c30326fe201" 
     width="150"
     heigth ="300"
     alt="Uçuş Rotasyonu Ekran Görüntüsü" 
@@ -121,7 +125,7 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
 
    <p align="start">
   <img 
-    src="https://github.com/user-attachments/assets/163e60a9-0a57-4fcd-b30d-1268e9911730" 
+    src="https://github.com/user-attachments/assets/24fee34b-b5ba-4923-b829-a8ae500bdf83" 
     width="150"
     heigth ="300"
     alt="Uçuş Rotasyonu Ekran Görüntüsü" 
@@ -133,7 +137,7 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
 
    <p align="start">
   <img 
-    src="https://github.com/user-attachments/assets/2f74d6ef-9b61-4523-b044-8ada67145be3" 
+    src="https://github.com/user-attachments/assets/f80ccb51-a6f6-4c5c-a745-e98c1ccac4bb" 
     width="150"
     heigth ="300"
     alt="Uçuş Rotasyonu Ekran Görüntüsü" 
@@ -141,10 +145,11 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
 </p>
 
 5. Bulmaca Kalan süre, ipucu, tahmin, harf al ve pas geç işlevlerini test ederek mini kelime bulmacayı tamamlayın.
+ 
 
    <p align="start">
   <img 
-    src="https://github.com/user-attachments/assets/4388d88d-8761-446c-bb3e-faba8cdbc07f" 
+    src="https://github.com/user-attachments/assets/6debca88-611e-4b81-b55a-b4ca6eee25a4" 
     width="150"
     heigth ="300"
     alt="Uçuş Rotasyonu Ekran Görüntüsü" 
@@ -155,7 +160,7 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
 
     <p align="start">
   <img 
-    src="https://github.com/user-attachments/assets/536a3ec3-5dcc-43f4-b0e8-e4658d9d8b15" 
+    src="https://github.com/user-attachments/assets/bea2fb66-472c-48e5-bea0-47fcb0edacd0" 
     width="150"
     heigth ="300"
     alt="Uçuş Rotasyonu Ekran Görüntüsü" 
