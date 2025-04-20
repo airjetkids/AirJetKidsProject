@@ -2,10 +2,12 @@
 
 ## Repo Notları
 
-1. **Dökümantasyon Tanıtım ve Raporlar** Tanıtım videosu,proje sunumları ve proje dökümantasyonları yer alır
-2. **Arttırılmış gerçeklik teknolojisi entegrasyonları tamamlandı.**
-3. **Kullanıcı bazlı puanlama sistem altyapısı çalışmalarına başlandı.**
-4. 
+1. **Dökümantasyon Tanıtım ve Raporlar:** Tanıtım videosu,proje sunumları ve proje dökümantasyonları bu klasörde yer alır
+2. **Mobil Uygulama Kaynak Kodları:** AirJet Kids mobil uygulamasının kaynak kodları bu klasörde yer alır.
+3. **Web Sitesi Kaynak Kodları:** Airjet Kids web sitesi kaynak kodları bu klasörde yer alır.
+4. **Mobil Uygulama Beta Apk:** Airjet Kids mobil uygulamasının gerçek cihazlarda test edilebilir apk beta sürümü bu klasörde yer alır.
+
+   
 **Proje Tanıtımı**  
 Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerini sağlamak amacıyla geliştirilmiş interaktif bir mobil uygulama. Türkiye haritası üzerinde kullanıcıların seçtikleri şehirler arasında uçuş rotaları çizer; her şehirde artırılmış gerçeklik ile zenginleştirilmiş görseller ve puanlama süre gibi parametreler içeren kelime bulmaca oyunları sunarak çocuklara eğlenceli ve eğitici bir uçuş deneyimi yaşatır.
 
