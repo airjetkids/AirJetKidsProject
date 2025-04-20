@@ -78,6 +78,21 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
 - Gerçek cihazda deneyim için ARCore destekli Android işletim sistemine sahip cihazlarda çalıştırılması gerekir.
 - ARCore destekli Cihazlar [https://developers.google.com/ar/devices?hl=tr](https://developers.google.com/ar/devices?hl=tr)
 
+
+## Beta Sürüm Notları
+
+1. **Kısıtlı sayısa rotasyonlar mevcuttur(Elazığ-İstanbul,İzmir-Bursa)**
+2. **Arttırılmış gerçeklik teknolojisi entegrasyonları tamamlandı.**
+3. **Kullanıcı bazlı puanlama sistem altyapısı çalışmalarına başlandı.**
+
+
+## Gelecek Sürüm Notları
+
+1. **Türkiye için olası uçuş rotasyonları eklenecek.**
+2. **Şehirler ile ilgili AR sahneleri eklenecek.**
+3. **Kullanıcı girişi ve puanlama sistemi aktifleştirilecek.**  
+
+  
 ---
 
 ## Kurulum & Çalıştırma
