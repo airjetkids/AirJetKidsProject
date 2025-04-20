@@ -32,6 +32,14 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
 - ## Trello Adresi
 🔗 [ https://trello.com/b/frMMlU0m/airjet-kids](https://trello.com/b/frMMlU0m/airjet-kids)
 
+# Proje Tanıtım Videosu
+
+<video controls width="800">
+  <source src="Dökümantasyon Tanıtım ve Raporlar/Proje Tanıtım Videosu/Proje_Tanıtımı_Videosu.mp4" type="video/mp4">
+  Tarayıcınız video etiketini desteklemiyor.
+</video>
+
+
 - ## Mobil Uygulama Kaynak Kod Yapısı
 
 - **`lib/main.dart`**  
