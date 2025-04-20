@@ -91,7 +91,7 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
 
 ## Beta Sürüm Notları
 
-1. **Kısıtlı sayısa rotasyonlar mevcuttur. (Elazığ-İstanbul,İzmir-Bursa)**
+1. **Kısıtlı sayıda rotasyonlar mevcuttur. (Elazığ-İstanbul,İzmir-Bursa)**
 2. **Arttırılmış gerçeklik teknolojisi entegrasyonları tamamlandı. (Sahneler henüz mevcut değil)**
 3. **Kullanıcı bazlı puanlama sistem altyapısı çalışmalarına başlandı.**
 
