@@ -192,9 +192,13 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
   />
 </p>
 
-## Kapsamlı Tanıtım Videomuzun Linki
+## Kapsamlı Tanıtım Videomuzun Linkimiz
 
 https://youtu.be/xSlaiuqp3Vk
+
+## Proje Sunum Dosyamızın Linki 
+
+https://github.com/airjetkids/AirJetKidsProject/tree/main/D%C3%B6k%C3%BCmantasyon%20Tan%C4%B1t%C4%B1m%20ve%20Raporlar/Proje%20Sunumu
 
 
    
