@@ -192,6 +192,10 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
   />
 </p>
 
+## Kapsamlı Tanıtım Videomuzun Linki
+
+https://youtu.be/xSlaiuqp3Vk
+
 
    
 
