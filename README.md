@@ -3,9 +3,11 @@
 ## Repositories Notları
 
 1. **Dökümantasyon Tanıtım ve Raporlar:** Tanıtım videosu,proje sunumları ve proje dökümantasyonları bu klasörde yer alır
-2. **Mobil Uygulama Kaynak Kodları:** AirJet Kids mobil uygulamasının kaynak kodları bu klasörde yer alır.
+2. **Mobil Uygulama Kaynak Kodları:** AirJet Kids mobil uygulamasının ilk geliştirme kaynak kodları bu klasörde yer alır.
 3. **Web Sitesi Kaynak Kodları:** Airjet Kids web sitesi kaynak kodları bu klasörde yer alır.
-4. **Mobil Uygulama Beta Apk:** Airjet Kids mobil uygulamasının gerçek cihazlarda test edilebilir apk beta sürümü bu klasörde yer alır.
+4. **Mobil Uygulama Beta Apk:** Airjet Kids mobil uygulamasının gerçek cihazlarda test edilebilir ilk apk beta sürümü bu klasörde yer alır.
+5. **Proje Son Sürüm Güncel Kod:** AirJet Kids mobil uygulamasının tamamlandığı en güncel kaynak kodları bu klasörde yer alır.
+6. **Proje Son Sürüm Güncel Apk:** Airjet Kids mobil uygulamasının gerçek cihazlarda test edilebilir ve yeni sürüm özelliklerinin eklendiği en güncel apk sürümü bu klasörde yer alır.
 
    
 **Proje Tanıtımı**  
