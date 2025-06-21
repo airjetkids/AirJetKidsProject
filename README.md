@@ -131,87 +131,20 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
    ```bash
    flutter run
 
-- ## Temel Akış
 
-1. Şehir seçimi “Nereye Gidiyoruz?” ekranında kalkış ve varış şehirlerini belirleyin.
-
-
-<p align="start">
-  <img 
-    src="https://github.com/user-attachments/assets/f34eb192-b938-4ffc-bde6-799b4e4397f5" 
-    width="150"
-    heigth ="300"
-    alt="Uçuş Rotasyonu Ekran Görüntüsü" 
-  />
-</p>
-
-
-2. Rota görüntüleme Harita ve şehir listesi ile uçuş rotasını inceleyin.
-
-  <p align="start">
-  <img 
-    src="https://github.com/user-attachments/assets/f4213b78-ae06-41fc-872f-5c30326fe201" 
-    width="150"
-    heigth ="300"
-    alt="Uçuş Rotasyonu Ekran Görüntüsü" 
-  />
-</p>
-
-3. Şehir detayı Bir şehir seçip AR model önizlemesini görün ve “Oyunu Oyna” butonuna tıklayın.
-
-   <p align="start">
-  <img 
-    src="https://github.com/user-attachments/assets/24fee34b-b5ba-4923-b829-a8ae500bdf83" 
-    width="150"
-    heigth ="300"
-    alt="Uçuş Rotasyonu Ekran Görüntüsü" 
-  />
-</p>
-
-
-4. Seçilen şehirde derece yapmış skorları görün ve "Oyuna Başla" veya "Öğren" butonuna tıklayın.
-
-   <p align="start">
-  <img 
-    src="https://github.com/user-attachments/assets/f80ccb51-a6f6-4c5c-a745-e98c1ccac4bb" 
-    width="150"
-    heigth ="300"
-    alt="Uçuş Rotasyonu Ekran Görüntüsü" 
-  />
-</p>
-
-5. Bulmaca Kalan süre, ipucu, tahmin, harf al ve pas geç işlevlerini test ederek mini kelime bulmacayı tamamlayın.
- 
-
-   <p align="start">
-  <img 
-    src="https://github.com/user-attachments/assets/6debca88-611e-4b81-b55a-b4ca6eee25a4" 
-    width="150"
-    heigth ="300"
-    alt="Uçuş Rotasyonu Ekran Görüntüsü" 
-  />
-</p>
-
-6. Oyun sonu Puanınız hesaplanır; “Kaydet ve Çık” veya “Oyundan Çık” seçeneğiyle ana ekrana dönebilirsiniz.
-
-    <p align="start">
-  <img 
-    src="https://github.com/user-attachments/assets/bea2fb66-472c-48e5-bea0-47fcb0edacd0" 
-    width="150"
-    heigth ="300"
-    alt="Uçuş Rotasyonu Ekran Görüntüsü" 
-  />
-</p>
-
-## Kapsamlı Tanıtım Videomuzun Linkimiz
+## Kapsamlı Tanıtım Video Linki
 
 https://youtu.be/xSlaiuqp3Vk
 
-## Proje Sunum Dosyamızın Linki 
+## Mobil Uygulama Son Sürüm Tanıtım Video Linki
 
+buraya video linki gelecek
+
+## Proje Sunum Dosyası Linki 
 https://github.com/airjetkids/AirJetKidsProject/tree/main/D%C3%B6k%C3%BCmantasyon%20Tan%C4%B1t%C4%B1m%20ve%20Raporlar/Proje%20Sunumu
 
-
+## Proje Yeni Sürüm İçin Hazırlana Sunum Dosyası Linki 
+https://github.com/airjetkids/AirJetKidsProject/blob/main/D%C3%B6k%C3%BCmantasyon%20Tan%C4%B1t%C4%B1m%20ve%20Raporlar/Proje%20Sunumu/Proje%20Son%20S%C3%BCr%C3%BCm%20Sunum(PDF).pdf
    
 
 
