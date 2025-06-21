@@ -143,7 +143,7 @@ buraya video linki gelecek
 ## Proje Sunum Dosyası Linki 
 https://github.com/airjetkids/AirJetKidsProject/tree/main/D%C3%B6k%C3%BCmantasyon%20Tan%C4%B1t%C4%B1m%20ve%20Raporlar/Proje%20Sunumu
 
-## Proje Yeni Sürüm İçin Hazırlana Sunum Dosyası Linki 
+## Proje Yeni Sürüm İçin Hazırlanan Sunum Dosyası Linki 
 https://github.com/airjetkids/AirJetKidsProject/blob/main/D%C3%B6k%C3%BCmantasyon%20Tan%C4%B1t%C4%B1m%20ve%20Raporlar/Proje%20Sunumu/Proje%20Son%20S%C3%BCr%C3%BCm%20Sunum(PDF).pdf
    
 
