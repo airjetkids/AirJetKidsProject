@@ -98,11 +98,18 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
 3. **Kullanıcı bazlı puanlama sistem altyapısı çalışmalarına başlandı.**
 
 
-## Gelecek Sürüm Notları
+## Güncel Son Sürüm Notları
 
-1. **Türkiye için olası uçuş rotasyonları eklenecek.**
-2. **Şehirler ile ilgili AR sahneleri eklenecek.**
-3. **Kullanıcı girişi ve puanlama sistemi aktifleştirilecek.**  
+1. **Türkiye için olası uçuş rotasyonları eklendi.**
+2. **Her şehir için ayrı ayrı materyaller ve ar modeli içeren kullanıcıların hafıza gelişimini destekleyen AR Kart Eşleştirme Oyunu Eklendi.**
+3. **81 şehir için kullanıcı yaş kategorilerine göre kolay ve orta zorluklarda kelime oyunu verileri eklendi**
+4. **Kullanıcı kayıt olma giriş yapma özellikleri eklendi.**
+5. **Kullanıcıların Kelime Oyunu ve Ar Kart Eşleştirme Oyunu için şehir bazlı puanlarının görüntülendiği puanlama sistemi eklendi.**
+6. **Her şehir için mevcut oyunlardaki en yüksek dereceyi yapan kullanıcılar Firebase bulut ortamında tutularak bütün kullanıcılar tarafından görüntüleneceği yapı eklendi.**
+7. **Kullanıcının göz sağlık durumları etkilenmemesi için 20 dakikada bir 5 dakikalık zorunlu mola ekranı geliştirildi ve bu mola ekranından kullanıcının uygulama devam etme durumu engellendi.**
+8. **Kullanıcının kişisel verileri sha-256 algoritmalarıyla şifrelenerek Firebase veritabanı ortamına aktarıldığı güvenlik katmanı eklendi.**
+9. **Alfa Beta ve Gama testlerinde hata tespiti için mobil uygulama içerisinde loglama altyapısı kuruldu.**
+10.**Oyun tanıtım ekranları eklenerek kullanıcıların oyunları nasıl oynayacağı ve puanlama sistemi anlatıldı.**
 
   
 ---
