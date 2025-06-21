@@ -4,10 +4,10 @@
 
 1. **Dökümantasyon Tanıtım ve Raporlar:** Tanıtım videosu,proje sunumları ve proje dökümantasyonları bu klasörde yer alır
 2. **Mobil Uygulama Kaynak Kodları:** AirJet Kids mobil uygulamasının ilk geliştirme kaynak kodları bu klasörde yer alır.
-3. **Web Sitesi Kaynak Kodları:** Airjet Kids web sitesi kaynak kodları bu klasörde yer alır.
-4. **Mobil Uygulama Beta Apk:** Airjet Kids mobil uygulamasının gerçek cihazlarda test edilebilir ilk apk beta sürümü bu klasörde yer alır.
-5. **Proje Son Sürüm Güncel Kod:** AirJet Kids mobil uygulamasının tamamlandığı en güncel kaynak kodları bu klasörde yer alır.
-6. **Proje Son Sürüm Güncel Apk:** Airjet Kids mobil uygulamasının gerçek cihazlarda test edilebilir ve yeni sürüm özelliklerinin eklendiği en güncel apk sürümü bu klasörde yer alır.
+3. **Web Sitesi Kaynak Kodları:** AirJetKids web sitesi kaynak kodları bu klasörde yer alır.
+4. **Mobil Uygulama Beta Apk:** AirJetKids mobil uygulamasının gerçek cihazlarda test edilebilir ilk apk beta sürümü bu klasörde yer alır.
+5. **Proje Son Sürüm Güncel Kod:** AirJetKids mobil uygulamasının tamamlandığı en güncel kaynak kodları bu klasörde yer alır.
+6. **Proje Son Sürüm Güncel Apk:** AirjetKids mobil uygulamasının gerçek cihazlarda test edilebilir ve yeni sürüm özelliklerinin eklendiği en güncel apk sürümü bu klasörde yer alır.
 
    
 **Proje Tanıtımı**  
@@ -133,12 +133,13 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
 
 
 ## Kapsamlı Tanıtım Video Linki
-
 https://youtu.be/xSlaiuqp3Vk
 
 ## Mobil Uygulama Son Sürüm Tanıtım Video Linki
+https://youtu.be/tE-3dke8MOY
 
-buraya video linki gelecek
+## Mobil Uygulama Apk
+https://github.com/airjetkids/AirJetKidsProject/tree/main/Proje%20Son%20S%C3%BCr%C3%BCm%20G%C3%BCncel%20Apk
 
 ## Proje Sunum Dosyası Linki 
 https://github.com/airjetkids/AirJetKidsProject/tree/main/D%C3%B6k%C3%BCmantasyon%20Tan%C4%B1t%C4%B1m%20ve%20Raporlar/Proje%20Sunumu
