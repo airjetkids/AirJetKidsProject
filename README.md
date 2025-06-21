@@ -109,7 +109,9 @@ Uçak seyahatlerinde çocukların kaliteli ve verimli bir yolculuk geçirmelerin
 7. **Kullanıcının göz sağlık durumları etkilenmemesi için 20 dakikada bir 5 dakikalık zorunlu mola ekranı geliştirildi ve bu mola ekranından kullanıcının uygulama devam etme durumu engellendi.**
 8. **Kullanıcının kişisel verileri sha-256 algoritmalarıyla şifrelenerek Firebase veritabanı ortamına aktarıldığı güvenlik katmanı eklendi.**
 9. **Alfa Beta ve Gama testlerinde hata tespiti için mobil uygulama içerisinde loglama altyapısı kuruldu.**
-10.**Oyun tanıtım ekranları eklenerek kullanıcıların oyunları nasıl oynayacağı ve puanlama sistemi anlatıldı.**
+10. **Oyun tanıtım ekranları eklenerek kullanıcıların oyunları nasıl oynayacağı ve puanlama sistemi anlatıldı.**
+
+
 
   
 ---
